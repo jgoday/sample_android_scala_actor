@@ -1,0 +1,4 @@
+#External Dependencies
+#Thu Jul 07 09:21:09 CEST 2011
+/home/jgoday/Tmp/sample_actors/project/boot/scala-2.7.7/lib/scala-library.jar=plugins.scala
+/home/jgoday/Tmp/sample_actors/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.4/sbt_2.7.7-0.7.4.jar=plugins.scala

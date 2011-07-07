@@ -1,0 +1,7 @@
+#External Dependencies
+#Wed Jul 06 21:55:04 CEST 2011
+/home/jgoday/Tmp/sample_actors/project/boot/scala-2.7.7/lib/scala-library.jar=src_managed/sbt-android-plugin-0.5.1/AndroidProject.scala\:src_managed/sbt-android-plugin-0.5.1/MarketPublish.scala\:src_managed/sbt-android-plugin-0.5.1/TypedResources.scala\:src_managed/sbt-android-plugin-0.5.1/AndroidTestProject.scala
+/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar=src_managed/sbt-android-plugin-0.5.1/AndroidProject.scala\:src_managed/sbt-android-plugin-0.5.1/MarketPublish.scala\:src_managed/sbt-android-plugin-0.5.1/TypedResources.scala\:src_managed/sbt-android-plugin-0.5.1/AndroidTestProject.scala
+/home/jgoday/Tmp/sample_actors/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.4/sbt_2.7.7-0.7.4.jar=src_managed/sbt-android-plugin-0.5.1/AndroidProject.scala\:src_managed/sbt-android-plugin-0.5.1/MarketPublish.scala\:src_managed/sbt-android-plugin-0.5.1/TypedResources.scala\:src_managed/sbt-android-plugin-0.5.1/AndroidTestProject.scala
+/home/jgoday/Tmp/sample_actors/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.4/ivy_2.7.7-0.7.4.jar=src_managed/sbt-android-plugin-0.5.1/AndroidProject.scala
+/home/jgoday/Tmp/sample_actors/project/plugins/lib_managed/scala_2.7.7/proguard-4.4.jar=src_managed/sbt-android-plugin-0.5.1/AndroidProject.scala

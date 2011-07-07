@@ -1,0 +1,6 @@
+#Source Dependencies
+#Wed Jul 06 21:55:04 CEST 2011
+src_managed/sbt-android-plugin-0.5.1/MarketPublish.scala=
+src_managed/sbt-android-plugin-0.5.1/AndroidProject.scala=src_managed/sbt-android-plugin-0.5.1/MarketPublish.scala\:src_managed/sbt-android-plugin-0.5.1/TypedResources.scala\:src_managed/sbt-android-plugin-0.5.1/AndroidTestProject.scala
+src_managed/sbt-android-plugin-0.5.1/AndroidTestProject.scala=
+src_managed/sbt-android-plugin-0.5.1/TypedResources.scala=

@@ -1,0 +1,6 @@
+#Source Hashes
+#Wed Jul 06 21:55:04 CEST 2011
+src_managed/sbt-android-plugin-0.5.1/MarketPublish.scala=88275e78393f3be8b056c92bee624abada5e44af
+src_managed/sbt-android-plugin-0.5.1/AndroidProject.scala=7160a54805b8df77f7cb8ed32b6ef27a7379370e
+src_managed/sbt-android-plugin-0.5.1/AndroidTestProject.scala=9d1169108d97961d090b4e19c09f2c6828ac9f17
+src_managed/sbt-android-plugin-0.5.1/TypedResources.scala=cee3aca67db7f58e82fbafb04053e2a048a8d326
